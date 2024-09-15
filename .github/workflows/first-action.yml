@@ -7,5 +7,5 @@ jobs:
       - name: Print greeting
         run: echo "Hello GH"
       - name: Print Googbye
-        run: "Done-bye"
+        run: echo "Done-bye"
       
