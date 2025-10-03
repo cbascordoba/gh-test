@@ -1,0 +1,38 @@
+# Python Dependencies
+# Add your specific dependencies here based on your agent.py requirements
+# Common dependencies for AI/ML agents:
+
+# Core dependencies (uncomment as needed)
+# requests>=2.31.0
+# numpy>=1.24.0
+# pandas>=2.0.0
+# python-dotenv>=1.0.0
+
+# AI/ML libraries (uncomment as needed)
+# openai>=1.0.0
+# langchain>=0.1.0
+# transformers>=4.30.0
+# torch>=2.0.0
+# tensorflow>=2.13.0
+
+# Web frameworks (uncomment as needed)
+# flask>=2.3.0
+# fastapi>=0.100.0
+# streamlit>=1.25.0
+
+# Data processing (uncomment as needed)
+# beautifulsoup4>=4.12.0
+# selenium>=4.10.0
+# pymongo>=4.4.0
+# psycopg2-binary>=2.9.7
+
+# Utilities (uncomment as needed)
+# click>=8.1.0
+# pyyaml>=6.0
+# colorama>=0.4.6
+# tqdm>=4.65.0
+
+# Development dependencies
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
